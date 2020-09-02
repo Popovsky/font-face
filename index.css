@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Long Cang';
+    src: url("fonts/LongCang-Regular.ttf");
+    font-weight: 400;
+}
+
+.text {
+    font-family: 'Long Cang', cursive;
+}
